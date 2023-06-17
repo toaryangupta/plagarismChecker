@@ -44,4 +44,4 @@ We compute Plagiarism Rate using the formula below
 
 <hr>
 
-### Research Paper Refereed: [Download](https://osf.io/yxjnp/download)
+### Research Paper Referred: [Download](https://osf.io/yxjnp/download)
